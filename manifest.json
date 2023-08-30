@@ -1,0 +1,47 @@
+{
+  "manifest_version": 2.0,
+  "id": "golden_apps",
+  "name": "Golden'Apps",
+  "short_name": "Golden Apps",
+  "version": "2.0",
+  "author": "Anwr Alswdi",
+  "start_url": "https://golden-applications.blogspot.com",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0b5389",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDMwl8Rjen0xAGqzUoLOsV8WSXcfKdVWCUYHbXlQuawSXf3tpD6YEuEbDhPXV_tnLX1r06MJZmx4ChsTs3wnnZKvX8UBSjdgWCVwxSRea26XdCG6_3I1BXVODOp9Blpyv2MTXn5zo9v7hL0lHP63mW-1rsDGmvJ951ScwXQDrrTcQsw4eCbZCJEUIKsI/s72/icon-72x72.png",
+      "type": "image/png", "sizes": "72x72"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFb11zm6mJfuQgqHHVQq_cNySf3MGGBP3oXiHAM2WptBx3WoBkaiktZK9jE85kN9MsbAmjrranHHFfqb0bf3JRUhNLrYcCouapV4MHI4ZHEdHoXMiLi7QyHb_Sgur6LFjhUSi5eJFVP_JaqJyuMko-I8O9RFGho4-5VET5OQx5Z7bNt13BgXu5PP3bRtc/s96/icon-96x96.png",
+      "type": "image/png", "sizes": "96x96"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj1JNqQ_AqtbevbuzNkiuK293XBN941Ktie7KqmbOUzqLahojYdXYqF4H8bEZ76iLYmYN9KSlS1SIm0dWJCd00IbYQWInmt9yDL8fg-Jz5zzQ2jukcBQ3Mwtj8iaoy1UCpboojhmRFXRNxFVYpqz4F089mMz0zXlRWWTzVebXVtN0mNOGg3MRSiMKW794/s128/icon-128x128.png",
+      "type": "image/png","sizes": "128x128"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSUDeEBf6sS6wYOWUvsKsWraJc4WhZZd4PktA_D_aG4drBM-CHuH6eHBLnvWEc4h49yF1lKy6dVfTaiigxgbPKh9biszT-0H_nMEysC4IhPWhDHZ-5J19TMpardGK56qsmqymBXwgtGFXSAj7IKeO0Y1E4TG-H3IuBXpYnmTmeD2l1SPwxm4Dr7qvPZnQ/s144/icon-144x144.png",
+      "type": "image/png", "sizes": "144x144"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggsuD3fdk_R0qVSw-OaOwBEBPg7gNoVLj3hwlPZXyEGeiAJcO187XnLGtTqQyKOJdTtICnoor_iNF_1Oy_Q6W0XvgrMfG26w9ksTVQM7yjM5jQRo7IbosV5JLtywFjBbVDN1OPI7ZI_GlJfGUCeNfsQ64o1VYsh6C9kLnqGg5V95uJKlfuJZaRIgDr6SU/s152/icon-152x152.png",
+      "type": "image/png", "sizes": "152x152"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQTjecjWlj9NsmbKlIPH-Caz_BHyx6ki7sWVI7pq7vYdDbj4UR60xzhdpD0VzXuQFNY65EiHn2TwyfMmAxuI2tcSzvEy1Yi72-TYAlojoS3_ZILdGnl-CDRbyBb77vCQDajetgcDSws39inRWxQJokGbVTvUi8KovkYp8TxUCfalaA27gLOPawgPRcHxI/s192/icon-192x192.png",
+      "type": "image/png", "sizes": "192x192"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipWGQDeh7xVnoDYfkdZ7uH74m9SZe27eLSas6sTqzkq_2uZuBlfnRmzXuXFtOeg9HOMMkvK74efG9JA78y82c5CkYZnlZiyBhrJHApirubpLTbDlG9UIzypi6p291aeG6TQLTtl9Hhzqnjw1z6-PKuX04RkSbfBqvJ676lIYaNpkzJ7KyLzBCZ6GT8Hl4/s384/icon-384x384.png",
+      "type": "image/png", "sizes": "384x384"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM87p9yaZkVT089MiPpPgbquQ6AXJiHF7ZaVK4rSj5svANugmUxlydcySFvSHc8D-8m5ThguJ_Ir_a8M1I43r_xdr-zJOSwQ1BHH3DxIQ9014CUIfX9Kzqh7JeWq6w4Y_zbxae0ad3kb_QI3RHcpOc6wTedMgu-85KOCGW5yRQwqc1qa5s8B0CqOVKN2o/s152/icon-152x152.png",
+      "type": "image/png", "sizes": "512x512"
+    }
+  ]
+}
